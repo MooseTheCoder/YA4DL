@@ -1,0 +1,17 @@
+{
+  "name": "ya4dl",
+  "version": "1.0.0",
+  "description": "Yet Another 4chan Downloader",
+  "main": "index.js",
+  "scripts": {
+    "dl": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "mkdirp": "^0.5.1",
+    "node-wget-promise": "^0.1.6",
+    "puppeteer": "^1.15.0"
+  }
+}
